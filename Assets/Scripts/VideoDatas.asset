@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15dea79708025cf409429df21344be3b, type: 3}
+  m_Name: VideoDatas
+  m_EditorClassIdentifier: 
+  name:
+  - " \u0421\u0432\u0438\u043D\u043A\u0430 \u041F\u0435\u043F\u043F\u0430: 40. \u041F\u0430\u043F\u0430
+    \u0440\u0435\u0448\u0438\u043B \u0441\u0442\u0430\u0442\u044C \u0441\u0442\u0440\u043E\u0439\u043D\u044B\u043C"
+  - " \u0421\u0432\u0438\u043D\u043A\u0430 \u041F\u0435\u043F\u043F\u0430: 41. \u0421\u0443\u043F\u0435\u0440\u043C\u0430\u0440\u043A\u0435\u0442"
+  - " \u0421\u0432\u0438\u043D\u043A\u0430 \u041F\u0435\u043F\u043F\u0430: 38. \u0421\u043F\u044F\u0449\u0430\u044F
+    \u043F\u0440\u0438\u043D\u0446\u0435\u0441\u0441\u0430"
+  urlPreview:
+  - https://storage.yandexcloud.net/viavr.global/assets/content_card/bfdebabe-a264-4b97-ae74-e6abb2bc5ce3/images/47631a5d39d3.jpg
+  - https://storage.yandexcloud.net/viavr.global/assets/content_card/a0a9a962-9510-40b0-bad6-897722e010a4/images/f6ab6c7ffc58.jpg
+  - 'https://storage.yandexcloud.net/viavr.global/assets/content_card/f91aaa3e-d4b9-4118-975a-6091e8ea29b7/images/eab2500465ed.jpg '
+  urlVideo:
+  - https://storage.yandexcloud.net/viavr.global/CARTOONS/Peppa_Pig/Peppa_Pig_s01e40_Daddy_Gets_Fit.mp4
+  - https://storage.yandexcloud.net/viavr.global/CARTOONS/Peppa_Pig/Peppa_Pig_s01e41_Shopping.mp4
+  - 'https://storage.yandexcloud.net/viavr.global/CARTOONS/Peppa_Pig/Peppa_Pig_s01e38_Sleepy_Princess.mp4 '
