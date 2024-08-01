@@ -1193,10 +1193,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 05e4a2704cb348eb9d2dd55aa88f7a0f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  mediaPlayer: {fileID: 1505216864}
+  data: {fileID: 11400000, guid: 3731483f4c80cd049a9e0d74fb00ee0d, type: 2}
   playList: {fileID: 764618640}
   prefabPreview: {fileID: 6971846525293777054, guid: 0e89bbc12bfbcab4db9f1bd925da3124, type: 3}
-  Datas: {fileID: 11400000, guid: 3731483f4c80cd049a9e0d74fb00ee0d, type: 2}
-  mediaPlayer: {fileID: 1505216864}
   name: {fileID: 1996217884}
   uiButton: {fileID: 714965820}
   play: {fileID: 2128972012}
